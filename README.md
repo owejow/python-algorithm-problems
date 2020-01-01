@@ -21,4 +21,4 @@ Easiest way to use is to clone the package and explore the notebooks.
 
 ## Webpage 
 
-[owejow.github.io/python_algorithms_nbs/](https://owejow.github.io/python_algorithms_nbs/)
+[owejow.github.io/python-algorithm-problems/](https://owejow.github.io/python-algorithm-problems/)
