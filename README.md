@@ -19,26 +19,6 @@ Using the nbdev package to organize algorithm solutions and to create documentat
 
 Easiest way to use is to clone the package and explore the notebooks.
 
-## Documentation can be found at:
+## Webpage 
 
-Fill me in please! Don't forget code examples:
-<div class="codecell" markdown="1">
-<div class="input_area" markdown="1">
-
-```python
-1+1
-```
-
-</div>
-<div class="output_area" markdown="1">
-
-
-
-
-    2
-
-
-
-</div>
-
-</div>
+[owejow.github.io/python_algorithms_nbs/](https://owejow.github.io/python_algorithms_nbs/)
