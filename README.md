@@ -8,24 +8,24 @@
 
 -->
 
-# Project name here
+# Python Algorithm Problems
 
-> Summary description here.
+> Algorithms solved in Python 3
 
 
-This file will become your README and also the index of your documentation.
+Using the nbdev package to organize algorithm solutions and to create documentation.
 
 ## Install
 
-`pip install your_project_name`
+Easiest way to use is to clone the package and explore the notebooks.
 
-## How to use
+## Documentation can be found at:
 
 Fill me in please! Don't forget code examples:
 <div class="codecell" markdown="1">
 <div class="input_area" markdown="1">
 
-```
+```python
 1+1
 ```
 
