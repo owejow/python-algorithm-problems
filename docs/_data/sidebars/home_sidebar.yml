@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: /core
+      title: Basic Array Algorithms
+      url: /basic_array
     output: web
     title: python_algorithm_problems
   output: web
